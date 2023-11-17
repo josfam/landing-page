@@ -1,2 +1,2 @@
 # landing-page
-For the `Landing Page` foundatoins project from The Odin Project
+For the `Landing Page` foundations project from The Odin Project
