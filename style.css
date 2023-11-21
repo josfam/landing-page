@@ -52,12 +52,13 @@ img {
 
 .signup-btn {
 	width: 120px;
-	height: 35px;
+	height: 40px;
 	background-color: #3882f6;
 	border-radius: 8px;
 	font-weight: bold;
 	color: #e5e7eb;
 	border-style: none;
+	flex-shrink: 0;
 }
 
 .top-nav {
