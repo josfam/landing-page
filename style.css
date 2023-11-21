@@ -15,9 +15,11 @@ body {
 .hero {
 	display: flex;
 	color: #e5e7eb;
-	height: 300px;
+	height: 400px;
 	padding: 40px 80px 80px 80px;
 	justify-content: center;
+	gap: 80px;
+	overflow: hidden;
 }
 
 .hero-heading {
