@@ -82,6 +82,35 @@ img {
 	flex-direction: column;
 }
 
+.other-information {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 20px;
+}
+
+.tiles {
+	display: flex;
+	align-items: center;
+	gap: 30px;
+}
+
+.tile-img {
+	border: 2px solid rgb(0, 140, 255);
+	border-radius: 12px;
+	width: 150px;
+	height: 150px;
+	/* background-color: burlywood; */
+}
+
+.tile {
+	display: flex;
+	text-align: center;
+	max-width: 150px;
+	flex-direction: column;
+	align-items: center;
+}
+
 a {
 	text-decoration: none;
 	color: #e5e7eb;
