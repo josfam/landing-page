@@ -93,6 +93,7 @@ img {
 	display: flex;
 	align-items: center;
 	gap: 30px;
+	padding-bottom: 50px;
 }
 
 .tile-img {
@@ -109,6 +110,34 @@ img {
 	max-width: 150px;
 	flex-direction: column;
 	align-items: center;
+}
+
+.quote-wrapper {
+	display: flex;
+	/* flex-direction: column; */
+	height: 300px;
+	background-color: #e5e7eb;
+	justify-content: center;
+	padding: 40px 200px 40px 200px;
+	overflow: hidden;
+}
+
+.quote {
+	display: flex;
+	flex-direction: column;
+}
+
+.quote p {
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 30px;
+	font-style: italic;
+	color: #2a3648;
+}
+
+.speaker {
+	align-self: flex-end;
+	font-weight: bold;
+	font-size: 20px;
 }
 
 a {
