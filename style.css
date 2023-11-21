@@ -31,7 +31,7 @@ body {
 	font-family: sans-serif;
 	flex-direction: column;
 	justify-content: center;
-	gap: 2px
+	gap: 2px;
 }
 
 .hero-img-container {
